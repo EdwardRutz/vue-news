@@ -1,6 +1,6 @@
 # Vue News App
 
-> Practicing Test Driven Design in Vue JS with a clone of the Hacker News site.
+> Practicing Test Driven Development in Vue JS with a clone of the Hacker News site.
 
 ## Tech and Dependencies
 
